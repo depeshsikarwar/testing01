@@ -1,0 +1,17 @@
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: aqua;
+}
+h1{
+    color: aquamarine;
+}
+input,button{
+    cursor: pointer;
+    width: 15vw;
+
+}
+input:hover{
+    width:21vw;
+    border-color: black;
+}
